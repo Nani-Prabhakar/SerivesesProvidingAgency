@@ -1,9 +1,9 @@
 # SerivesesProvidingAgency
 #Teck Stack
--html
--css
--java script
--php
+  ->html
+  ->css
+  ->java script
+  ->php
 #Features
 - Dynamic website created using HTML, CSS, JavaScript, and PHP
 - Services offered include SEO, web development, and advertising
